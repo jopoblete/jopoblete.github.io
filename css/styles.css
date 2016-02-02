@@ -1,0 +1,22 @@
+body {
+			text-align: center;
+			background-image: url('../img/bridge.jpg');
+			background-attachment: fixed;
+			background-size: 100% 100%;
+			background-position: center;
+
+			color: white;
+			font-family: Helvetica;
+		}
+		p {
+			font-size: 22px;
+		}
+		input {
+			border: 0;
+			padding: 10px;
+			font-size: 18px;
+		}
+		input[type="submit"] {
+			background: red;
+			color: white;
+		}
